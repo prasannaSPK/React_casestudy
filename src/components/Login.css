@@ -1,0 +1,82 @@
+form {
+    text-align: center;
+  }
+  /* body{
+   background-image: url("https://3.bp.blogspot.com/-Rr8No60Jbg8/XG8o3OwKWCI/AAAAAAAAF_w/E_CwSi9nRLQZo_jhgyNA5qjgMYBf-ZjXgCHMYCw/s1600/ibm-helps-accelerate-ai-with-fast-new-data-platform-elite-team.jpg");
+   
+  background-repeat: no-repeat;
+  background-size: cover;
+  } */
+
+  button {
+    display: inline-block;
+    padding: 0 20px;
+    min-width: 160px;
+    height: 42px;
+    border-radius: 21px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    border-radius: 21px;
+    background: #d41872;
+    background: -webkit-linear-gradient(left,lightgreen,lightblue);
+    border: none;
+    border-radius: 15px;
+    
+    font-family: Ubuntu-Bold;
+   
+  }
+  th {
+    background-color: blueviolet;
+    color: black;
+  }
+  tr:nth-child(even) {background-color: #f2f2f2;}
+
+  fieldset {
+    display: block;
+    margin-inline-start: 2px;
+    margin-inline-end: 2px;
+    padding-block-start: 0.35em;
+    padding-inline-start: 0.75em;
+    padding-inline-end: 0.75em;
+    padding-block-end: 0.625em;
+    min-inline-size: min-content;
+    border-width: 5px;
+    border-style: groove;
+    border-image: initial;
+    width: 30%;
+    margin-left: 35%
+}
+
+tr:hover {background-color: #f5f5f5;}
+
+
+.btn{
+  display: inline-block;
+    padding: 0 20px;
+    min-width: 160px;
+    height: 42px;
+    border-radius: 21px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    border-radius: 21px;
+    background: #d41872;
+    background: -webkit-linear-gradient(left,violet,lightblue);
+    border: none;
+    border-radius: 15px;
+    
+    font-family: Ubuntu-Bold;
+   
+
+}
+
+.col-md-2{
+  text-Align:"center"
+}
